@@ -1,0 +1,18 @@
+h1 {
+  font-family: 'Baloo Tamma', cursive;
+}
+img{
+  width:1000px
+}
+#image{
+  text-align: center;
+}
+#text1{
+  text-align: center;
+}
+h2{
+  font-family: 'David Libre', serif;
+}
+body {
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Zeng_Liansong's_proposal_for_the_PRC_flag.svg/120px-Zeng_Liansong's_proposal_for_the_PRC_flag.svg.png");
+}
